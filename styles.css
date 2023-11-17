@@ -1,11 +1,12 @@
 
 /* Your CSS Code here. */
 .div2{
-	width: 350px;
+	width: 300px;
 	background-color: lightblue;
 	border: 15px solid blue;
 	padding: 50px;
 	margin: 20px;
+	align-item: center;
 }
 
 
