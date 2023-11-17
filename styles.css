@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.div2{
+	width: 350px;
+	background-color: lightblue;
+	border: 15px solid blue;
+	padding: 50px;
+	margin: 20px;
+}
+
+
+.div1{
+	width: 300px;
+	border:1px solid black;
+	padding: 50px 20px;
+	
+}
